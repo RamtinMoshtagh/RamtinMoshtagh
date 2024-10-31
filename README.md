@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Zen Math](www.zen-math.no)
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Bahai**
 
