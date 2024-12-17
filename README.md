@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Bahai**
-
 - 📫 How to reach me **ramtinmoshtagh@gmail.com**
 
-- ⚡ Fun fact **Co-founder of www.zen-math.no**
+
 
 
 ## 🌐 Socials:
