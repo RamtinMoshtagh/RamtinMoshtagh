@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **BIpartner**
 
-- 🌱 I’m currently learning **Backend**
-
 - 📫 How to reach me **ramtinmoshtagh@gmail.com**
 
 
